@@ -14,7 +14,7 @@
 
 #define IDLE_BEEPS       true  // Enable short beeps on the second during idle time
 #define SEND_CALL        true  // Enables sending of your callsign
-#define CALLSIGN      "FIREBALL 5"  // Operator's callsign
+#define CALLSIGN      "FB5"  // Operator's callsign
 
 #define BODS 7                   //BOD Sleep bit in MCUCR
 #define BODSE 2                  //BOD Sleep enable bit in MCUCR
